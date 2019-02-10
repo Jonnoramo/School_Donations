@@ -2,23 +2,25 @@
  
 ## Overview
  ### What is this website for?
-This website is to show how bad funding is in  some schools and what I'd do to change it.
+This website is to show how bad funding is in  some schools and what I'd do to change it. 
+There are charts to display the information, the data table will give you information about the schools, the number of donations made by teachers and students and the students grades.
  ### How does it work?
-I have used mongo to get the data from excel and store it on the dashboard. i used a pie chart and a line graph.
+I have used mongo to get the data from excel and store it on the dashboard. There are Charts that will load the information from mongodb, that retrieved the data from the excel file with the schools and students grade along with a data table on a separate page. 
 
 ## Features
  ### Existing Features
-This website has pie charts, line graphs and a table on records on the funding in schools.
+This website has pie charts, line graphs and a table on records on the funding in schools. You can switch to charts or data table by clicking on a link above the green panel explaining it. 
+The "Chart Tour" button will give you information about what each chart is about simply by going through them all one by one, with a description of each chart.
  
 ## Tech Used
  ### Some the tech used includes:
-- [Notepad plus](https://notepad-plus-plus.org)
+- [Sublime Text](https://www.sublime-text.com/)
     - We use **Notepad plus** to handle page routing, we also use it to make calls to the REST API and build custom directives
 - [mongodb](http://mongo.com/)
     - We use **Mongodb** to retrieve the data from excel and deploy it to heroku
 - [heroku](https://www.heroku.com/)
     - We use **heroku** to display the data once the projects complete
-- [excel] (Microsoft excel)
+- [excel](Microsoftexcel)
       - We use excel to write the data	
 
  
