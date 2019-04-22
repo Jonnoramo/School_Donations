@@ -15,7 +15,7 @@ The "Chart Tour" button will give you information about what each chart is about
 ## Tech Used
  ### Some the tech used includes:
 - [Sublime Text](https://www.sublime-text.com/)
-    - We use **Notepad plus** to handle page routing, we also use it to make calls to the REST API and build custom directives
+    - We use **Sublime Text** to handle page routing, we also use it to make calls to the REST API and build custom directives
 - [mongodb](http://mongo.com/)
     - We use **Mongodb** to retrieve the data from excel and deploy it to heroku
 - [heroku](https://www.heroku.com/)
